@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = HR.LeaveManagment.Domain
+build_property.ProjectDir = C:\Users\purushotam.soudagar\Skills\HR.LeaveManagment\HR.LeaveManagment.Domain\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

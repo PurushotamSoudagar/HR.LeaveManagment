@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{FD229A38-A751-4C95-ABFE-4A579ADEECCD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{26041805-2A5E-4544-A5B0-F7A96487EF05}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{A9A8C148-CDE4-4843-9076-540601C93B84}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{A3BAC44D-D437-4A5F-A008-B891630EFDE1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{1C0FA996-3FF4-4A9C-A2D9-14D3DA0DB6AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HR.LeaveManagment.Domain", "HR.LeaveManagment.Domain\HR.LeaveManagment.Domain.csproj", "{F9943684-2878-4930-A323-DFC8A219D779}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9943684-2878-4930-A323-DFC8A219D779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9943684-2878-4930-A323-DFC8A219D779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9943684-2878-4930-A323-DFC8A219D779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9943684-2878-4930-A323-DFC8A219D779}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{26041805-2A5E-4544-A5B0-F7A96487EF05} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{A9A8C148-CDE4-4843-9076-540601C93B84} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{A3BAC44D-D437-4A5F-A008-B891630EFDE1} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{1C0FA996-3FF4-4A9C-A2D9-14D3DA0DB6AF} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{F9943684-2878-4930-A323-DFC8A219D779} = {A9A8C148-CDE4-4843-9076-540601C93B84}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {964368A7-56C7-4F35-9F95-23AFB0CAD313}
+	EndGlobalSection
+EndGlobal

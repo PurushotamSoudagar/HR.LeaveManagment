@@ -1,0 +1,9 @@
+C:\Users\purushotam.soudagar\Skills\HR.LeaveManagment\HR.LeaveManagment.Domain\bin\Debug\netstandard2.1\HR.LeaveManagment.Domain.deps.json
+C:\Users\purushotam.soudagar\Skills\HR.LeaveManagment\HR.LeaveManagment.Domain\bin\Debug\netstandard2.1\HR.LeaveManagment.Domain.dll
+C:\Users\purushotam.soudagar\Skills\HR.LeaveManagment\HR.LeaveManagment.Domain\bin\Debug\netstandard2.1\HR.LeaveManagment.Domain.pdb
+C:\Users\purushotam.soudagar\Skills\HR.LeaveManagment\HR.LeaveManagment.Domain\obj\Debug\netstandard2.1\HR.LeaveManagment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\purushotam.soudagar\Skills\HR.LeaveManagment\HR.LeaveManagment.Domain\obj\Debug\netstandard2.1\HR.LeaveManagment.Domain.AssemblyInfoInputs.cache
+C:\Users\purushotam.soudagar\Skills\HR.LeaveManagment\HR.LeaveManagment.Domain\obj\Debug\netstandard2.1\HR.LeaveManagment.Domain.AssemblyInfo.cs
+C:\Users\purushotam.soudagar\Skills\HR.LeaveManagment\HR.LeaveManagment.Domain\obj\Debug\netstandard2.1\HR.LeaveManagment.Domain.csproj.CoreCompileInputs.cache
+C:\Users\purushotam.soudagar\Skills\HR.LeaveManagment\HR.LeaveManagment.Domain\obj\Debug\netstandard2.1\HR.LeaveManagment.Domain.dll
+C:\Users\purushotam.soudagar\Skills\HR.LeaveManagment\HR.LeaveManagment.Domain\obj\Debug\netstandard2.1\HR.LeaveManagment.Domain.pdb
