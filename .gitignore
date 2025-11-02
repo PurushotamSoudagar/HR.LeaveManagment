@@ -1,0 +1,38 @@
+# Ignore Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+
+# Rider / VSCode files (optional but useful)
+.idea/
+.vscode/
+
+# NuGet packages
+*.nupkg
+**/packages/
+!**/packages/build/
+!**/packages/repositories.config
+
+# Logs & temporary files
+*.log
+*.tlog
+
+# Backup & generated files
+*.bak
+*.cache
+*.tmp
+
+# ASP.NET specific
+project.lock.json
+project.fragment.lock.json
+
+# Publish output
+publish/
